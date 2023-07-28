@@ -6,7 +6,7 @@ Aprendiendo sobre:
 - Como funcionan los formularios en Vue.
 - Reescribir v-model desde componente padre.
 - Eventos y Custom Emits en un formulario.
-- Buena practica para combianr directivas de Vue con TailwindCSS.
+- Buena practica para combinar directivas de Vue con TailwindCSS.
 - Buena practica para componentizar un proyecto de VueJS
 
 ## Vue 3 + Vite
